@@ -17,11 +17,7 @@
 
 ## 📸 Capturas de Pantalla
 
-![Vista Principal](https://via.placeholder.com/800x400.png?text=Vista+Principal)  
-*Pantalla principal de la aplicación.*
-
-![Detalle de Carta](https://via.placeholder.com/800x400.png?text=Detalle+de+Carta)  
-*Visualización detallada de una carta.*
+*Proximamente.*
 
 ## 🧰 Instalación y Uso
 
