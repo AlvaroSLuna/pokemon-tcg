@@ -1,6 +1,6 @@
 # 🃏 Pokémon TCG Web App
 
-¡Bienvenido al proyecto **Pokémon TCG Web App**! Esta aplicación web te permite explorar y gestionar cartas del juego de cartas coleccionables de Pokémon. Diseñada con pasión por los fans, ofrece una experiencia interactiva y amigable para los entrenadores de todas las edades.
+¡Bienvenido al proyecto **Pokémon TCG Web App**! Esta aplicación web te permite explorar y gestionar cartas del juego de cartas coleccionables de Pokémon. Diseñada con pasión por un fan, ofrece una experiencia interactiva y amigable para los entrenadores de todas las edades.
 
 ## ✨ Características
 
@@ -16,7 +16,11 @@
 
 ## 📸 Capturas de Pantalla
 
-*Proximamente.*
+![Vista Principal](https://github.com/user-attachments/assets/a3b970f4-1748-4740-a758-9225ae288c7a)
+*Pantalla principal de la aplicación.*
+
+![Detalle de Carta](https://github.com/user-attachments/assets/ad6e2d6e-4ff6-4d4c-96bf-7f0ce8ee59ed)
+*Visualización detallada de una carta.
 
 ## 🧰 Instalación y Uso
 
@@ -36,8 +40,4 @@ Esta aplicación no solo es útil tal como está, ¡también puede servirte como
 - ¿Tienes ideas para mejorar el diseño o el rendimiento? Las pull requests y sugerencias son bienvenidas.
 
 Tu creatividad es el límite. ¡Hazla tuya! 🚀
-
-
-📄 Licencia
-Este proyecto está bajo la licencia MIT.
 
