@@ -28,7 +28,7 @@ git clone https://github.com/AlvaroSLuna/pokemon-tcg.git
 cd pokemon-tcg
 
 ## 🛠️ Personaliza y Reutiliza
-
+```
 Esta aplicación no solo es útil tal como está, ¡también puede servirte como punto de partida para tus propios proyectos! 🎯
 
 - ¿Quieres agregar nuevas funcionalidades? ¡Adelante!
@@ -36,6 +36,7 @@ Esta aplicación no solo es útil tal como está, ¡también puede servirte como
 - ¿Tienes ideas para mejorar el diseño o el rendimiento? Las pull requests y sugerencias son bienvenidas.
 
 Tu creatividad es el límite. ¡Hazla tuya! 🚀
+
 
 📄 Licencia
 Este proyecto está bajo la licencia MIT.
