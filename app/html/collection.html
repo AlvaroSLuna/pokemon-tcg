@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pokémon TCG</title>
+  <link rel="icon" type="image/png" href="../../app/src/Poké_Ball_icon.svg.png" />
+  <link rel="stylesheet" href="../../app/css/style.css" />
+</head>
+
+<body>
+  <main class="main-content">
+    <div class="header-bar">
+      <a href="../../app/html/index.html">
+        <img src="../../app/src/Pokémon_Trading_Card_Game_logo.svg.png" alt="Gestión de Cartas Pokémon"
+          class="logo-header" />
+      </a>
+
+      <div class="dropdown">
+        <button class="dropbtn">Menú ▾</button>
+        <div class="dropdown-content">
+          <a href="../../app/php/login.php">Log In</a>
+          <a href="../../app/html/index.html">Inicio</a>
+          <a href="../../app/html/collection.html">Colección</a>
+          <a href="../../app/html/pokedex.html">Pokédex</a>
+          <a href="https://my.limitlesstcg.com/builder" target="_blank">Creador de mazos</a>
+          <a href="../../app/php/login.php">Log Out</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <h1>Mi Colección de Cartas</h1>
+      <a href="../../app/html/index.html" class="volver-btn">← Volver a buscar</a>
+      <br><br><br>
+      <div id="collectionCards" class="cards"></div>
+    </div>
+  </main>
+  <footer class="footer-bar">
+    <div class="footer-left">
+      © 2025 Todos los derechos reservados.
+    </div>
+    <div class="footer-center">
+      Diseñado por Álvaro Serrano
+    </div>
+    <div class="footer-right">
+      <a href="https://www.linkedin.com/in/alvaroserranoluna/" target="_blank" aria-label="LinkedIn">
+        <img src="../../app/src/linkedin.png" alt="LinkedIn" />
+      </a>
+    </div>
+  </footer>
+  <div id="confirmPopup" class="popup hidden">
+    <div class="popup-content">
+      <p>¿Estás seguro de que quieres eliminar esta carta de tu colección?</p>
+      <div class="popup-buttons">
+        <button id="confirmYes">Sí</button>
+        <button id="confirmNo">No</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="../../app/javaScript/collection.js"></script>
+</body>
+
+</html>
