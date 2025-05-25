@@ -13,7 +13,7 @@
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
-- **API**: [Pokémon TCG API](https://pokemontcg.io/)
+- **API**: [Pokémon API](https://pokeapi.co/docs/v2)
 
 ## 📸 Capturas de Pantalla
 
