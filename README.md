@@ -7,7 +7,6 @@
 - 🔍 **Búsqueda Avanzada**: Encuentra tus cartas favoritas por nombre, tipo, expansión y más.
 - 📊 **Gestión de Colección**: Organiza y lleva un registro de tus cartas coleccionables.
 - 🎨 **Interfaz Intuitiva**: Navegación sencilla y diseño responsivo para todos los dispositivos.
-- 🌐 **Multilenguaje**: Disponible en varios idiomas para una experiencia global.
 
 ## 🚀 Tecnologías Utilizadas
 
@@ -27,4 +26,17 @@ git clone https://github.com/AlvaroSLuna/pokemon-tcg.git
 
 # Entra al directorio
 cd pokemon-tcg
+
+## 🛠️ Personaliza y Reutiliza
+
+Esta aplicación no solo es útil tal como está, ¡también puede servirte como punto de partida para tus propios proyectos! 🎯
+
+- ¿Quieres agregar nuevas funcionalidades? ¡Adelante!
+- ¿Te gustaría crear tu propia app basada en cartas o coleccionables? Esta estructura puede servirte como base sólida.
+- ¿Tienes ideas para mejorar el diseño o el rendimiento? Las pull requests y sugerencias son bienvenidas.
+
+Tu creatividad es el límite. ¡Hazla tuya! 🚀
+
+📄 Licencia
+Este proyecto está bajo la licencia MIT.
 
