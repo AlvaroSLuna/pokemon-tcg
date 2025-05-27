@@ -59,13 +59,13 @@ async function searchCards(query, filters = {}) {
       cards.sort((a, b) => b.name.localeCompare(a.name));
     }
 
-    allResults = cards; // <-- Solo los nuevos resultados
+    allResults = cards; //Solo los nuevos resultados
     currentPage = 1;
     renderCurrentPage();
 
   } catch (error) {
     cardsContainer.innerHTML = "Ocurrió un error al buscar cartas.";
-    allResults = []; // <-- Limpia los resultados en caso de error
+    allResults = []; //Limpia los resultados en caso de error
     renderCurrentPage();
     console.error(error);
   }
